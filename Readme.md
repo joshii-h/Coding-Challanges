@@ -1,3 +1,3 @@
-#This is my coding challange
+# This is my coding challange
 
-1.) Password generator
+1. ) Password generator
